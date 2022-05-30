@@ -34,7 +34,6 @@
 }
 
 .calculator__btns button:last-child {
-  border-radius: 50%;
   color: var(--txt-white);
 
   background-image: linear-gradient(312deg, #030a0e, #fd0404);
